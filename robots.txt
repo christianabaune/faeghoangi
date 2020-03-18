@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haemienah.strangeindustries.co.uk/sitemap.xml
